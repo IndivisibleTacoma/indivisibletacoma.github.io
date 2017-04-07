@@ -1,0 +1,260 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,700i);
+@font-face {
+  font-family: 'Trenda Semibold It';
+  src: url("../fonts/Trenda-SemiboldIt.eot");
+  src: url("../fonts/Trenda-SemiboldIt.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-SemiboldIt.woff") format("woff"), url("../fonts/Trenda-SemiboldIt.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic; }
+@font-face {
+  font-family: 'Trenda';
+  src: url("../fonts/Trenda-Heavy.eot");
+  src: url("../fonts/Trenda-Heavy.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-Heavy.woff") format("woff"), url("../fonts/Trenda-Heavy.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+@font-face {
+  font-family: 'Trenda';
+  src: url("../fonts/Trenda-Semibold.eot");
+  src: url("../fonts/Trenda-Semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-Semibold.woff") format("woff"), url("../fonts/Trenda-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal; }
+@font-face {
+  font-family: 'Trenda Heavy It';
+  src: url("../fonts/Trenda-HeavyIt.eot");
+  src: url("../fonts/Trenda-HeavyIt.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-HeavyIt.woff") format("woff"), url("../fonts/Trenda-HeavyIt.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic; }
+@font-face {
+  font-family: 'San Francisco Text';
+  src: url("../fonts/SanFranciscoText-Semibold.eot");
+  src: url("../fonts/SanFranciscoText-Semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoText-Semibold.woff") format("woff"), url("../fonts/SanFranciscoText-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal; }
+@font-face {
+  font-family: 'Trenda ExtraLight It';
+  src: url("../fonts/Trenda-ExtraLightIt.eot");
+  src: url("../fonts/Trenda-ExtraLightIt.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-ExtraLightIt.woff") format("woff"), url("../fonts/Trenda-ExtraLightIt.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic; }
+@font-face {
+  font-family: 'Trenda';
+  src: url("../fonts/Trenda-Thin.eot");
+  src: url("../fonts/Trenda-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-Thin.woff") format("woff"), url("../fonts/Trenda-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal; }
+@font-face {
+  font-family: 'San Francisco Display';
+  src: url("../fonts/SanFranciscoDisplay-Heavy.eot");
+  src: url("../fonts/SanFranciscoDisplay-Heavy.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoDisplay-Heavy.woff") format("woff"), url("../fonts/SanFranciscoDisplay-Heavy.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+@font-face {
+  font-family: 'San Francisco Display';
+  src: url("../fonts/SanFranciscoDisplay-Medium.eot");
+  src: url("../fonts/SanFranciscoDisplay-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoDisplay-Medium.woff") format("woff"), url("../fonts/SanFranciscoDisplay-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+@font-face {
+  font-family: 'Gotham Condensed';
+  src: url("../fonts/GothamCondensed-Bold.eot");
+  src: url("../fonts/GothamCondensed-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/GothamCondensed-Bold.woff") format("woff"), url("../fonts/GothamCondensed-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+@font-face {
+  font-family: 'Trenda Black It';
+  src: url("../fonts/Trenda-BlackIt.eot");
+  src: url("../fonts/Trenda-BlackIt.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-BlackIt.woff") format("woff"), url("../fonts/Trenda-BlackIt.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic; }
+@font-face {
+  font-family: 'Trenda Thin It';
+  src: url("../fonts/Trenda-ThinIt.eot");
+  src: url("../fonts/Trenda-ThinIt.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-ThinIt.woff") format("woff"), url("../fonts/Trenda-ThinIt.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic; }
+@font-face {
+  font-family: 'San Francisco Display';
+  src: url("../fonts/SanFranciscoDisplay-Semibold.eot");
+  src: url("../fonts/SanFranciscoDisplay-Semibold.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoDisplay-Semibold.woff") format("woff"), url("../fonts/SanFranciscoDisplay-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal; }
+@font-face {
+  font-family: 'Trenda Bold It';
+  src: url("../fonts/Trenda-BoldIt.eot");
+  src: url("../fonts/Trenda-BoldIt.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-BoldIt.woff") format("woff"), url("../fonts/Trenda-BoldIt.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic; }
+@font-face {
+  font-family: 'San Francisco Text';
+  src: url("../fonts/SanFranciscoText-Thin.eot");
+  src: url("../fonts/SanFranciscoText-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoText-Thin.woff") format("woff"), url("../fonts/SanFranciscoText-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal; }
+@font-face {
+  font-family: 'Trenda Light It';
+  src: url("../fonts/Trenda-LightIt.eot");
+  src: url("../fonts/Trenda-LightIt.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-LightIt.woff") format("woff"), url("../fonts/Trenda-LightIt.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic; }
+@font-face {
+  font-family: 'San Francisco Text';
+  src: url("../fonts/SanFranciscoText-Heavy.eot");
+  src: url("../fonts/SanFranciscoText-Heavy.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoText-Heavy.woff") format("woff"), url("../fonts/SanFranciscoText-Heavy.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+@font-face {
+  font-family: 'San Francisco Text';
+  src: url("../fonts/SanFranciscoText-Italic.eot");
+  src: url("../fonts/SanFranciscoText-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoText-Italic.woff") format("woff"), url("../fonts/SanFranciscoText-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+@font-face {
+  font-family: 'San Francisco Display';
+  src: url("../fonts/SanFranciscoDisplay-Light.eot");
+  src: url("../fonts/SanFranciscoDisplay-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoDisplay-Light.woff") format("woff"), url("../fonts/SanFranciscoDisplay-Light.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal; }
+@font-face {
+  font-family: 'San Francisco Display';
+  src: url("../fonts/SanFranciscoDisplay-Ultralight.eot");
+  src: url("../fonts/SanFranciscoDisplay-Ultralight.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoDisplay-Ultralight.woff") format("woff"), url("../fonts/SanFranciscoDisplay-Ultralight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal; }
+@font-face {
+  font-family: 'San Francisco Text';
+  src: url("../fonts/SanFranciscoText-Medium.eot");
+  src: url("../fonts/SanFranciscoText-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoText-Medium.woff") format("woff"), url("../fonts/SanFranciscoText-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+@font-face {
+  font-family: 'Trenda';
+  src: url("../fonts/Trenda-ExtraLight.eot");
+  src: url("../fonts/Trenda-ExtraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-ExtraLight.woff") format("woff"), url("../fonts/Trenda-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal; }
+@font-face {
+  font-family: 'San Francisco Text';
+  src: url("../fonts/SanFranciscoText-Regular.eot");
+  src: url("../fonts/SanFranciscoText-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoText-Regular.woff") format("woff"), url("../fonts/SanFranciscoText-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'San Francisco Display';
+  src: url("../fonts/SanFranciscoDisplay-Thin.eot");
+  src: url("../fonts/SanFranciscoDisplay-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoDisplay-Thin.woff") format("woff"), url("../fonts/SanFranciscoDisplay-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal; }
+@font-face {
+  font-family: 'Trenda';
+  src: url("../fonts/Trenda-Regular.eot");
+  src: url("../fonts/Trenda-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-Regular.woff") format("woff"), url("../fonts/Trenda-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'San Francisco Text';
+  src: url("../fonts/SanFranciscoText-HeavyItalic.eot");
+  src: url("../fonts/SanFranciscoText-HeavyItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoText-HeavyItalic.woff") format("woff"), url("../fonts/SanFranciscoText-HeavyItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic; }
+@font-face {
+  font-family: 'Trenda';
+  src: url("../fonts/Trenda-Light.eot");
+  src: url("../fonts/Trenda-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-Light.woff") format("woff"), url("../fonts/Trenda-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+@font-face {
+  font-family: 'Trenda';
+  src: url("../fonts/Trenda-Bold.eot");
+  src: url("../fonts/Trenda-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-Bold.woff") format("woff"), url("../fonts/Trenda-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+@font-face {
+  font-family: 'San Francisco Text';
+  src: url("../fonts/SanFranciscoText-LightItalic.eot");
+  src: url("../fonts/SanFranciscoText-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoText-LightItalic.woff") format("woff"), url("../fonts/SanFranciscoText-LightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic; }
+@font-face {
+  font-family: 'San Francisco Display';
+  src: url("../fonts/SanFranciscoDisplay-Regular.eot");
+  src: url("../fonts/SanFranciscoDisplay-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoDisplay-Regular.woff") format("woff"), url("../fonts/SanFranciscoDisplay-Regular.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal; }
+@font-face {
+  font-family: 'Trenda';
+  src: url("../fonts/Trenda-Black.eot");
+  src: url("../fonts/Trenda-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-Black.woff") format("woff"), url("../fonts/Trenda-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+@font-face {
+  font-family: 'San Francisco Text';
+  src: url("../fonts/SanFranciscoText-Light.eot");
+  src: url("../fonts/SanFranciscoText-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/SanFranciscoText-Light.woff") format("woff"), url("../fonts/SanFranciscoText-Light.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal; }
+@font-face {
+  font-family: 'Trenda It';
+  src: url("../fonts/Trenda-RegularIt.eot");
+  src: url("../fonts/Trenda-RegularIt.eot?#iefix") format("embedded-opentype"), url("../fonts/Trenda-RegularIt.woff") format("woff"), url("../fonts/Trenda-RegularIt.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+body {
+  font-size: 16px;
+  font-family: 'San Francisco Text', 'Arial', sans-serif;
+  background-color: white;
+  color: #333; }
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Trenda', serif;
+  font-weight: normal; }
+
+h1 {
+  font-size: 48px;
+  padding-bottom: 10px;
+  text-transform: uppercase; }
+
+.logo {
+  width: 50%;
+  margin-bottom: 50px; }
+
+#county-name, #local-name, #state-name, #federal-name, #county-name-nav {
+  text-transform: capitalize; }
+
+.table > thead > tr > th {
+  white-space: nowrap; }
+
+/*.about {
+    font-size: 90%;
+}*/
+/* center the nav pills */
+.centered-pills {
+  text-align: center; }
+
+.centered-pills ul.nav-pills {
+  display: inline-block; }
+
+.centered-pills li {
+  display: inline; }
+
+.centered-pills a {
+  float: left; }
+
+* html .centered-pills ul.nav-pills, * + html .centered-pills ul.nav-pills {
+  display: inline; }
+
+.headshot {
+  max-width: 50px; }
+
+.nowrap {
+  white-space: nowrap; }
+
+.label-dem {
+  color: #0294C7; }
+
+.label-rep {
+  color: #D1220E; }
+
+.label-ind {
+  color: #418B07; }
+
+#contactModal {
+  font-size: 0.9em; }
